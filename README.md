@@ -234,8 +234,6 @@ This project is licensed under the MIT License.
 
 Chemical Engineering Undergraduate | AI & Generative AI Enthusiast
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
 
 ---
 ⭐ If you found this project useful, consider giving it a star.
